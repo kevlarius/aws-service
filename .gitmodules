@@ -1,0 +1,3 @@
+[submodule "common-utils"]
+	path = common-utils
+	url = git@github.com:kevlarius/common-utils-test.git
