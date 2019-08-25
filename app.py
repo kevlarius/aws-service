@@ -1,12 +1,11 @@
 
 
-from test-pack import test-mod
-
-
+from utils.utils.strings import compare_strings
 
 
 def start_app():
     print('Starting application...')
+    print(compare_strings('A', 'B'))
     print('Done')
 
 
